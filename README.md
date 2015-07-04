@@ -1,3 +1,3 @@
-# mykrack
+# mykracken
 
-Kraken app
+Kraken sample boiler plate app
